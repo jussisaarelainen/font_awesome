@@ -6,7 +6,7 @@
   vendor:           Jussi Saarelainen
   version:          0.1.0
   name:             Font Awesome
-  description:      Font Awesome as Juce sub-module
+  description:      Font Awesome as Juce Font
   website:          http://www.fontawesome.com
   license:
 

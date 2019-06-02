@@ -1,5 +1,14 @@
 namespace font_awesome {
 
+extern const char*   fabrands400_ttf;
+const int            fabrands400_ttfSize = 129344;
+
+extern const char*   faregular400_ttf;
+const int            faregular400_ttfSize = 34092;
+
+extern const char*   fasolid900_ttf;
+const int            fasolid900_ttfSize = 186424;
+
 using Typeface = juce::Typeface;
     
 const Font &getFontRegular()
